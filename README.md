@@ -13,7 +13,3 @@ Ich bin angehender Cyber Security Spezialist mit dem Ziel, in den nächsten Jahr
 
 ---
 
-https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white
-
-https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white
-
