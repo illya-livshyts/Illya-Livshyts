@@ -1,6 +1,6 @@
 ## 👋 Hallo! Ich bin Illya
 
-Ich bin angehender Cyber Security Spezialist mit dem Ziel, in den nächsten Jahren tief in die Welt der IT-Sicherheit einzusteigen. Aktuell bin ich noch Anfänger, aber mit einem klaren Plan und täglicher Disziplin.
+Ich bin dabei, in die Cyber Security einzusteigen. Aktuell bin ich noch Anfänger, aber mein Ziel ist in den nächsten Jahren tief in die Welt der IT-Sicherheit einzusteigen. Täglich arbeite ich diszipliniert daran, dieses Ziel zu erreichen.
 
 
 ---
