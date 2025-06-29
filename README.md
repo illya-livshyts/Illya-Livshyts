@@ -5,7 +5,7 @@ Ich bin dabei, in die Cyber Security einzusteigen. Aktuell bin ich noch Anfänge
 
 Auf diesem Account möchte ich auch meine Projekte vorstellen. Mir geht es darum, mein Wissen im Bereich IT-Sicherheit praktisch umzusetzen, neue Konzepte wirklich zu verstehen und aus meinen Fehlern zu lernen. So werde ich langfristig sicherer und kompetenter.
 
-Gleichzeitig dokumentiere ich hier auch die Grundlagen, die man als Einsteiger wissen sollte – quasi als kleine Hilfestellung. 
+Gleichzeitig dokumentiere ich hier auch die Grundlagen, die man als Einsteiger wissen sollte, quasi als kleine Hilfestellung. 
 
 ---
 
