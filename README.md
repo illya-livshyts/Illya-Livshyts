@@ -13,8 +13,3 @@ Ich bin angehender Cyber Security Spezialist mit dem Ziel, in den nächsten Jahr
 
 ---
 
-## 📁 Projekte (Portfolio im Aufbau)
-
-Ich arbeite aktuell an **strukturierten Cisco Packet Tracer Projekten**, die ich hier Schritt für Schritt dokumentiere
-
----
