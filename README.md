@@ -17,5 +17,12 @@ Gleichzeitig dokumentiere ich hier auch die Grundlagen, die man als Einsteiger w
 
 
 ---
-## Zukünftige Projekte & Lernziele
+## 📁Zukünftige Projekte & Lernziele
+
+1. Arbeiten an **Wireshark-Analysen**
+2. Grundlagen der **Firewall-Konfiguration**
+
+
+
+
 
