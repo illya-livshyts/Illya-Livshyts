@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 Hallo! Ich bin Illya Livshyts
 
-<!--
-**illya-livshyts/Illya-Livshyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin angehender Cyber Security Spezialist mit dem Ziel, in den nächsten Jahren tief in die Welt der IT-Sicherheit einzusteigen. Aktuell bin ich noch Anfänger, aber mit einem klaren Plan und täglicher Disziplin.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔒 Was ich aktuell mache
+
+- 📚 Lerne Netzwerktechnik
+- 🧪 Baue Schritt-für-Schritt IT-Projekte mit Cisco Packet Tracer
+- 🧠 Arbeite an Wireshark-Analysen 
+
+
+
+## 📁 Projekte (Portfolio im Aufbau)
+
+Ich arbeite aktuell an **strukturierten Cisco Packet Tracer Projekten**, die ich hier Schritt für Schritt dokumentiere
