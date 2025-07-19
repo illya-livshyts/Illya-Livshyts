@@ -14,7 +14,7 @@ Gleichzeitig dokumentiere ich hier auch die Grundlagen, die man als Einsteiger w
  Ich arbeite aktuell an **strukturierten Cisco Packet Tracer Projekten**, die ich hier Schritt für Schritt dokumentiere.     
 - Basisprojekte                 
 - Netwerksicherheit
-- Arbeiten an **Wireshark-Analysen
+- Arbeiten an **Wireshark-Analysen**
 
 
 ---
