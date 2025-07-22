@@ -15,10 +15,6 @@ Gleichzeitig dokumentiere ich hier auch die Grundlagen, die man als Einsteiger w
 
 
 ---
-## 📁Zukünftige Projekte & Lernziele
-
-1. Grundlagen der **Firewall-Konfiguration**
-
 
 
 
