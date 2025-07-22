@@ -8,16 +8,16 @@ Gleichzeitig dokumentiere ich hier auch die Grundlagen, die man als Einsteiger w
 
 ## 📁 Projekte (Portfolio im Aufbau)
 
-Ich arbeite aktuell an **strukturierten Cisco Packet Tracer Projekten**, die ich hier Schritt für Schritt dokumentiere.     
+Ich arbeite aktuell an **strukturierten Cisco Packet Tracer Projekten**, die ich hier Schritt für Schritt dokumentiere. (Public)  
 - Basisprojekte                 
 - Netwerksicherheit
 
-Arbeite an **Wireshark-Analysen** 
+Arbeite an **Wireshark-Analysen** (Private)
 - Grundlagen der Filterung in Wireshark
 - Packet Captures Wireshark analysieren
 - Wireshark-Lernreihe
 
-Arbeite an dem Projektplan für Cybersecurity – von Anfänger zu Fortgeschrittenen
+Arbeite an dem Projektplan für Cybersecurity – von Anfänger zu Fortgeschrittenen (Private)
 
 
 
